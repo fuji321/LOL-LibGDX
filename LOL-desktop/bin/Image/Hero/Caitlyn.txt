@@ -1,0 +1,88 @@
+Caitlyn.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 408, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 504, 2
+  size: 481, 585
+  orig: 481, 585
+  offset: 0, 0
+  index: -1
+SkillRFocus
+  rotate: false
+  xy: 504, 589
+  size: 351, 331
+  orig: 363, 331
+  offset: 5, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 286, 843
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 2, 721
+  size: 282, 289
+  orig: 282, 289
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 286, 721
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 469, 939
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 387, 843
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 354, 717
+  orig: 356, 717
+  offset: 1, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 408, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 387, 939
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 408, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

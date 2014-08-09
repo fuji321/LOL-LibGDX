@@ -1,0 +1,172 @@
+TwistedFate.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillEEffectD
+  rotate: false
+  xy: 984, 94
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+SkillEEffectH
+  rotate: false
+  xy: 944, 124
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 862, 288
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillWSelectedBlue
+  rotate: false
+  xy: 944, 328
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+SkillWSelectedYellow
+  rotate: false
+  xy: 944, 418
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+SkillEEffectC
+  rotate: false
+  xy: 984, 2
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+SkillEEffectG
+  rotate: false
+  xy: 914, 452
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 862, 370
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillWRedEffect
+  rotate: false
+  xy: 2, 721
+  size: 557, 403
+  orig: 557, 403
+  offset: 0, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 799, 721
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+SkillWRed
+  rotate: false
+  xy: 944, 158
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Attack
+  rotate: false
+  xy: 944, 158
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+SkillEEffectB
+  rotate: false
+  xy: 984, 118
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+SkillEEffectF
+  rotate: false
+  xy: 984, 66
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 862, 124
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillWYellow
+  rotate: false
+  xy: 914, 505
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 858, 717
+  orig: 858, 717
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 561, 721
+  size: 236, 199
+  orig: 236, 199
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 862, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillEEffectA
+  rotate: false
+  xy: 1003, 418
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+SkillWBlue
+  rotate: false
+  xy: 862, 452
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+SkillEEffectE
+  rotate: false
+  xy: 984, 39
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+SkillWSelectedRed
+  rotate: false
+  xy: 944, 238
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+SkillPortraitC
+  rotate: false
+  xy: 862, 206
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

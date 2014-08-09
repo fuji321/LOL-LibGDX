@@ -1,0 +1,81 @@
+Soraka.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 104, 922
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 2, 922
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 232, 721
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 268, 897
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Attack
+  rotate: false
+  xy: 390, 979
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 390, 897
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 2, 721
+  size: 228, 199
+  orig: 228, 199
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 654, 717
+  orig: 660, 717
+  offset: 3, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 416, 803
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 186, 922
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 416, 721
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

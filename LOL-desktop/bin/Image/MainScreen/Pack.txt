@@ -1,0 +1,25 @@
+Pack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ViewHeroButtonUp
+  rotate: false
+  xy: 101, 964
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+ViewHeroButtonDown
+  rotate: false
+  xy: 2, 964
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+Background
+  rotate: false
+  xy: 2, 2
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1

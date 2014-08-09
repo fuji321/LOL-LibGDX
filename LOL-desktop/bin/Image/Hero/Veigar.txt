@@ -1,0 +1,95 @@
+Veigar.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AttackBall
+  rotate: false
+  xy: 944, 78
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+SkillPortraitC
+  rotate: false
+  xy: 660, 961
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 810, 866
+  size: 135, 108
+  orig: 135, 108
+  offset: 0, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 944, 2
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 2, 721
+  size: 452, 442
+  orig: 452, 442
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 456, 961
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillWExplodeBoundary
+  rotate: false
+  xy: 810, 721
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+AttackLight
+  rotate: false
+  xy: 944, 140
+  size: 60, 58
+  orig: 64, 64
+  offset: 1, 4
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 578, 1043
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillWExplodeBackground
+  rotate: false
+  xy: 456, 721
+  size: 352, 238
+  orig: 352, 238
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 940, 717
+  orig: 940, 717
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 578, 961
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 742, 976
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

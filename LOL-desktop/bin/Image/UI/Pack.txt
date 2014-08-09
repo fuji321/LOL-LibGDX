@@ -1,0 +1,60 @@
+Pack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackButtonUp
+  rotate: false
+  xy: 98, 542
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+MainScreenButtonDown
+  rotate: false
+  xy: 2, 542
+  size: 94, 103
+  orig: 94, 113
+  offset: 0, 5
+  index: -1
+BattleButtonUp
+  rotate: false
+  xy: 92, 647
+  size: 86, 97
+  orig: 94, 113
+  offset: 5, 5
+  index: -1
+BattleButtonDown
+  rotate: false
+  xy: 2, 750
+  size: 92, 99
+  orig: 94, 113
+  offset: 1, 6
+  index: -1
+MainScreenButtonUp
+  rotate: false
+  xy: 2, 647
+  size: 88, 101
+  orig: 94, 113
+  offset: 2, 7
+  index: -1
+HeroNull
+  rotate: false
+  xy: 644, 2
+  size: 296, 538
+  orig: 296, 538
+  offset: 0, 0
+  index: -1
+UnderButtonsBackground
+  rotate: false
+  xy: 2, 2
+  size: 640, 147
+  orig: 640, 147
+  offset: 0, 0
+  index: -1
+BackButtonDown
+  rotate: false
+  xy: 2, 851
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1

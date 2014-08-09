@@ -1,0 +1,39 @@
+Pack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Add
+  rotate: false
+  xy: 200, 964
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Highlight
+  rotate: false
+  xy: 644, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Background
+  rotate: false
+  xy: 2, 2
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+EmbattleButtonUp
+  rotate: false
+  xy: 2, 964
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+EmbattleButtonDown
+  rotate: false
+  xy: 101, 964
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1

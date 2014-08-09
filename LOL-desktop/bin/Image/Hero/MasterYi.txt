@@ -1,0 +1,95 @@
+MasterYi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillQC
+  rotate: false
+  xy: 248, 887
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 124, 887
+  size: 58, 30
+  orig: 64, 64
+  offset: 3, 18
+  index: -1
+SkillE
+  rotate: false
+  xy: 2, 524
+  size: 499, 279
+  orig: 499, 279
+  offset: 0, 0
+  index: -1
+SkillQA
+  rotate: false
+  xy: 248, 953
+  size: 38, 64
+  orig: 64, 64
+  offset: 13, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 2, 805
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 124, 805
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitC
+  rotate: false
+  xy: 2, 927
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 166, 1001
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 603, 520
+  orig: 603, 520
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 206, 805
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 84, 927
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 166, 919
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQB
+  rotate: false
+  xy: 288, 953
+  size: 64, 54
+  orig: 64, 64
+  offset: 0, 6
+  index: -1

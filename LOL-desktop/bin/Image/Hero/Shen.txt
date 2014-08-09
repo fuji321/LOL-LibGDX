@@ -1,0 +1,95 @@
+Shen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 401, 912
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 987, 2
+  size: 16, 124
+  orig: 16, 124
+  offset: 0, 0
+  index: -1
+SkillEL
+  rotate: false
+  xy: 459, 721
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+SkillRReceiver
+  rotate: false
+  xy: 2, 721
+  size: 233, 231
+  orig: 233, 231
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 483, 885
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillRGiver
+  rotate: false
+  xy: 545, 2
+  size: 440, 413
+  orig: 440, 413
+  offset: 0, 0
+  index: -1
+SkillER
+  rotate: false
+  xy: 545, 417
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 545, 581
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 237, 721
+  size: 220, 189
+  orig: 226, 189
+  offset: 2, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 541, 717
+  orig: 541, 717
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 319, 912
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 605, 885
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 237, 912
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
