@@ -1,0 +1,81 @@
+Ashe.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 888, 248
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillEBird
+  rotate: false
+  xy: 684, 2
+  size: 245, 166
+  orig: 245, 166
+  offset: 0, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 806, 252
+  size: 60, 250
+  orig: 60, 250
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 684, 170
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillEStar
+  rotate: false
+  xy: 2, 549
+  size: 648, 656
+  orig: 648, 656
+  offset: 0, 0
+  index: -1
+Attack
+  rotate: false
+  xy: 888, 170
+  size: 20, 57
+  orig: 20, 57
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 931, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 680, 545
+  orig: 680, 545
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 806, 170
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 931, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 931, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

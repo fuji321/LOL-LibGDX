@@ -1,0 +1,95 @@
+Warwick.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillQC
+  rotate: false
+  xy: 722, 167
+  size: 193, 145
+  orig: 205, 205
+  offset: 6, 0
+  index: -1
+SkillPortraitC
+  rotate: false
+  xy: 929, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQD
+  rotate: false
+  xy: 722, 2
+  size: 205, 163
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+WarwickSkillE
+  rotate: false
+  xy: 722, 423
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+SkillQA
+  rotate: false
+  xy: 946, 452
+  size: 63, 81
+  orig: 205, 205
+  offset: 125, 97
+  index: -1
+Portrait
+  rotate: false
+  xy: 883, 330
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 929, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 2, 666
+  size: 447, 216
+  orig: 447, 216
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 718, 662
+  orig: 718, 662
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 864, 452
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 929, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 917, 248
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQB
+  rotate: false
+  xy: 722, 314
+  size: 159, 107
+  orig: 205, 205
+  offset: 22, 0
+  index: -1

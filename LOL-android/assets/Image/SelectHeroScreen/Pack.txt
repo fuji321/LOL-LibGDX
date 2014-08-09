@@ -1,0 +1,46 @@
+Pack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 2, 2
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+HeroBarBackgroundUp
+  rotate: false
+  xy: 2, 1097
+  size: 600, 131
+  orig: 600, 131
+  offset: 0, 0
+  index: -1
+DeleteHero
+  rotate: false
+  xy: 644, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+RightButton
+  rotate: false
+  xy: 766, 2
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+LeftButton
+  rotate: false
+  xy: 790, 2
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+HeroBarBackgroundDown
+  rotate: false
+  xy: 2, 964
+  size: 600, 131
+  orig: 600, 131
+  offset: 0, 0
+  index: -1

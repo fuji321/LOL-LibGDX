@@ -1,0 +1,88 @@
+Jinx.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 409, 843
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 734, 2
+  size: 82, 323
+  orig: 82, 327
+  offset: 0, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 66, 721
+  size: 95, 267
+  orig: 95, 267
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 409, 925
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 322, 721
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 245, 920
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 2, 721
+  size: 62, 286
+  orig: 70, 288
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 730, 717
+  orig: 730, 717
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 327, 925
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillEExplode
+  rotate: false
+  xy: 163, 721
+  size: 157, 197
+  orig: 157, 197
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 163, 920
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 327, 843
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+Pack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ProgressBar_Back
+  rotate: false
+  xy: 2, 964
+  size: 460, 28
+  orig: 460, 28
+  offset: 0, 0
+  index: -1
+Background
+  rotate: false
+  xy: 2, 2
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+ProgressBar_Fore
+  rotate: false
+  xy: 2, 994
+  size: 285, 22
+  orig: 285, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,81 @@
+Ahri.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 631, 710
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 462, 855
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 2, 710
+  size: 336, 288
+  orig: 336, 288
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 340, 855
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Attack
+  rotate: false
+  xy: 340, 710
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 653, 792
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 485, 710
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 652, 706
+  orig: 652, 706
+  offset: 0, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 571, 792
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 571, 874
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 549, 710
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,39 @@
+Pack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChangeTargetButtonDown
+  rotate: false
+  xy: 428, 964
+  size: 211, 53
+  orig: 211, 53
+  offset: 0, 0
+  index: -1
+Background
+  rotate: false
+  xy: 2, 2
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+StartBattleButtonDown
+  rotate: false
+  xy: 2, 964
+  size: 211, 53
+  orig: 211, 53
+  offset: 0, 0
+  index: -1
+StartBattleButtonUp
+  rotate: false
+  xy: 641, 964
+  size: 211, 53
+  orig: 211, 53
+  offset: 0, 0
+  index: -1
+ChangeTargetButtonUp
+  rotate: false
+  xy: 215, 964
+  size: 211, 53
+  orig: 211, 53
+  offset: 0, 0
+  index: -1

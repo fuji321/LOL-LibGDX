@@ -1,0 +1,81 @@
+Riven.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SkillPortraitC
+  rotate: false
+  xy: 815, 804
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillQ
+  rotate: false
+  xy: 537, 458
+  size: 423, 344
+  orig: 423, 344
+  offset: 0, 0
+  index: -1
+SkillR
+  rotate: false
+  xy: 537, 2
+  size: 445, 454
+  orig: 445, 454
+  offset: 0, 0
+  index: -1
+SkillE
+  rotate: false
+  xy: 470, 804
+  size: 261, 256
+  orig: 261, 256
+  offset: 0, 0
+  index: -1
+Portrait
+  rotate: false
+  xy: 348, 703
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SkillPortraitA
+  rotate: false
+  xy: 348, 907
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillW
+  rotate: false
+  xy: 2, 703
+  size: 344, 294
+  orig: 344, 294
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 533, 699
+  orig: 535, 699
+  offset: 2, 0
+  index: -1
+SkillPortraitD
+  rotate: false
+  xy: 733, 804
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitB
+  rotate: false
+  xy: 348, 825
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+SkillPortraitE
+  rotate: false
+  xy: 348, 989
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
